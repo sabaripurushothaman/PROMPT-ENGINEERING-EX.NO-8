@@ -48,8 +48,31 @@ To demonstrate the ability of text-to-image generation tools to reproduce an exi
 3.	Prompts Used: The text prompts created during the experiment.
 4.	Comparison Report: A report highlighting the differences and similarities between the original and generated images, along with any adjustments made to the prompt.
 
+## SCENARIO 1 : Reproducing a Minimalist Digital Artwork
+
+<img width="1536" height="517" alt="ChatGPT Image Dec 19, 2025, 11_39_20 PM" src="https://github.com/user-attachments/assets/ffcbc146-c872-4daa-a103-0990c9a3b822" />
+<img width="1536" height="481" alt="fb8f8ed9-35e5-47cc-a8b0-802a3ec582ff" src="https://github.com/user-attachments/assets/20b6f677-25dd-42a8-80fe-387c26e1740d" />
+<img width="1536" height="533" alt="ChatGPT Image Dec 19, 2025, 11_46_43 PM" src="https://github.com/user-attachments/assets/427689c1-a2a5-43f0-8cb4-cc85d13c2279" />
+
+## SCENARIO 2: Reproducing a High-Contrast Street Photography Scene
+
+<img width="1536" height="494" alt="ChatGPT Image Dec 19, 2025, 11_39_20 PM" src="https://github.com/user-attachments/assets/aae8c2a5-fe73-46e8-b7e6-a6923aef73e2" />
+<img width="1536" height="556" alt="fb8f8ed9-35e5-47cc-a8b0-802a3ec582ff" src="https://github.com/user-attachments/assets/09af1a17-ead4-4dfa-8469-f1e4f8c300fa" />
+<img width="1536" height="507" alt="ChatGPT Image Dec 19, 2025, 11_46_43 PM" src="https://github.com/user-attachments/assets/054d55ea-1d38-453e-9fe0-3c28b714657b" />
+
 ## Conclusion:
 By using detailed and well-crafted prompts, text-to-image generation models can be effective in reproducing an image closely. The quality of the generated image depends on how accurately the prompt describes the image's key elements. The experiment demonstrates the importance of prompt refinement and iteration when working with AI tools to achieve desired outcomes. With practice, the model can generate images that closely match real-world visuals, which is useful for creative and practical applications.
 
 
 ## IMAGES: (CHOOSE ANY TWO BELOW AND REPRODUCE)
+## SCENARIO 1 : Reproducing a Minimalist Digital Artwork
+Final Generated Prompt: Vector-style minimalist digital artwork with a single geometric shape centered on the canvas. Use a limited color palette with one dominant solid color for the subject and a muted contrasting background. Flat lighting, no shadows, no gradients, no textures. Clean lines, balanced composition, and ample negative space.
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a99e08bd-e330-4c17-8734-d2da8b9a2d07" />
+## SCENARIO 2: Reproducing a High-Contrast Street Photography Scene
+Final Generated Prompt:High-contrast black-and-white street photography scene featuring one or two pedestrians in motion on an urban street. Strong directional sunlight creating deep shadows and bright highlights. Emphasize realism, sharp contrast, textured surfaces like roads and buildings, dynamic composition using leading lines or rule of thirds.
+
+
+## RESULT :
+The prompt-based image reproduction experiment was executed successfully, and the generated images closely matched the original images using refined prompts.
+
+
