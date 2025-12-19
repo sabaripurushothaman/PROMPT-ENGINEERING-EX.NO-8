@@ -1,7 +1,7 @@
 ## Exp 8: Reproducing an Image Using Prompts for Image Generation
 
-# Date :
-# Reg. No. 
+# Date :20-12-25
+# Reg. No. 25013745
 
 ## Aim:
 To demonstrate the ability of text-to-image generation tools to reproduce an existing image by crafting precise prompts. The goal is to identify key elements within the image and use these details to generate an image as close as possible to the original.
@@ -70,7 +70,7 @@ Final Generated Prompt: Vector-style minimalist digital artwork with a single ge
 <img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/a99e08bd-e330-4c17-8734-d2da8b9a2d07" />
 ## SCENARIO 2: Reproducing a High-Contrast Street Photography Scene
 Final Generated Prompt:High-contrast black-and-white street photography scene featuring one or two pedestrians in motion on an urban street. Strong directional sunlight creating deep shadows and bright highlights. Emphasize realism, sharp contrast, textured surfaces like roads and buildings, dynamic composition using leading lines or rule of thirds.
-
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/ff413281-0371-450f-9362-9c5273b822de" />
 
 ## RESULT :
 The prompt-based image reproduction experiment was executed successfully, and the generated images closely matched the original images using refined prompts.
